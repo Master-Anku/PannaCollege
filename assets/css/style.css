@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 60%;
+    background-color: #608347;
+    padding: 7%;
+}
+
+h1, label {
+    color: rgb(235, 228, 30);
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+    }
+    
+.man {
+    display: block;
+    border: 1px solid #333;
+    margin: 20px 0;
+    padding: 12px;
+    width: 50%;
+    font-size: 1.0rem;
+    border-radius: 15px;
+    }
+
+
+#checkStatus {
+        width: 20%;
+        padding: 10px 0;
+        margin: 20px 0;
+        border-radius: 15px;
+        font-size: 1.0rem;
+        }
+        
+.result {
+        padding: 10px;
+        color: rgb(223, 243, 223);
+        margin-top: 20px;
+}
